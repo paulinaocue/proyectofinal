@@ -1,5 +1,5 @@
 @import url(fontawesome-all.min.css);
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic");
+@import url(<link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">)
 
 /*
 	Spectral by HTML5 UP
@@ -87,7 +87,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #2e3842;
+		background: #0000;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -102,8 +102,8 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: #fff;
-		font-family: "Open Sans", Helvetica, sans-serif;
+		color: #ffffff;
+		font-family: 'Montserrat', sans-serif;
 		font-size: 15pt;
 		font-weight: 400;
 		letter-spacing: 0.075em;
@@ -150,7 +150,7 @@ input, select, textarea {
 		}
 
 	strong, b {
-		color: #fff;
+		color: #ffffff;
 		font-weight: 600;
 	}
 
@@ -163,7 +163,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #fff;
+		color: #ffffff;
 		font-weight: 800;
 		letter-spacing: 0.225em;
 		line-height: 1em;
@@ -177,7 +177,7 @@ input, select, textarea {
 		}
 
 	h2 {
-		font-size: 1.35em;
+		font-size: 10 em;
 		line-height: 1.75em;
 	}
 
